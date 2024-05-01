@@ -16,23 +16,42 @@ The above dataset has 3333 rows and 20 columns. There are no mising values and d
 ### Variables Description
 
 State :categorica for the 50 states
+
 Account Length :how long account has been active
+
 Area Code :Code Number of Area having some States included in each area code
+
 lntl Plan :Internat ional plan activated ( yes, no )
+
 VMail Plan : ice Mail plan activated ( yes, no )
+
 VMail Message :No.of voice mail messages
+
 Day Mins :Total day minutes used
+
 Day calls :Total day calls made
+
 Day Charge :Total day charge
+
 Eve Mins :Total evening minutes
+
 Eve Calls :Total evening calls
+
 Eve Charge :Total evening charge
+
 Night Mins :Total night minutes
+
 Night Calls :Total night calls
+
 Night Charge :Total night charge
+
 Intl Mins :Total International minutes used
+
 Intl Calls :Total International calls made
+
 Intl Charge :Total International charge
+
 CustServ calls :Number of customer service caUs made
+
 Churn :Customer churn (Target Variable True=1, False=0)
 
